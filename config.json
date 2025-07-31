@@ -8,25 +8,25 @@
           "Store": "default"
         },
         "cs": {
-          "AC-View-ID": "YOUR_HEADER_VALUE",
-          "AC-Price-Book-ID": "YOUR_HEADER_VALUE",
-          "AC-Source-Locale": "YOUR_HEADER_VALUE"
+          "AC-View-ID": "0a933a9c-a7f6-4f20-aabc-4303d930e3dc",
+          "AC-Price-Book-ID": "east_coast_inc",
+          "AC-Source-Locale": "en-US"
         }
       },
       "analytics": {
         "base-currency-code": "USD",
         "environment": "Production",
         "environment-id": "Bang1dSzsvNwaEnTudtw2G",
-        "store-code": "YOUR_STORE_CODE",
-        "store-id": "YOUR_STORE_ID",
-        "store-name": "YOUR_STORE_NAME",
-        "store-url": "YOUR_STORE_URL",
-        "store-view-code": "YOUR_STORE_VIEW_CODE",
-        "store-view-id": "YOUR_STORE_VIEW_ID",
-        "store-view-name": "YOUR_STORE_VIEW_NAME",
-        "website-code": "YOUR_WEBSITE_CODE",
-        "website-id": "YOUR_WEBSITE_ID",
-        "website-name": "YOUR_WEBSITE_NAME"
+        "store-code": "default",
+        "store-id": "default",
+        "store-name": "default",
+        "store-url": "default",
+        "store-view-code": "default",
+        "store-view-id": "default",
+        "store-view-name": "default",
+        "website-code": "default",
+        "website-id": "default",
+        "website-name": "default"
       },
       "plugins": {
         "picker": {
